@@ -20,6 +20,7 @@ Los repositorios propuestos no se crean ni se mueve código sin confirmación ex
 - [Backlog de preparación](docs/DEVELOPMENT_BACKLOG.md)
 - [Política de release GO/NO-GO](docs/release/GO_NO_GO.md)
 - [Arquitectura — decisiones pendientes](docs/architecture/README.md)
+- [Recomendación de plataforma: AWS, Cloudflare, Wompi](docs/architecture/PLATFORM_DECISIONS.md)
 - [Asistente de reservas y atención](docs/product/BOOKING_ASSISTANT.md)
 - [QA — estrategia inicial](docs/qa/README.md)
 
